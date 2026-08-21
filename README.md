@@ -104,22 +104,20 @@ open_for: ["Collaborations", "Internships", "Open Source"]
 ### 📊 Telemetry & Activity Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ulugbek220907&show_icons=true&theme=tokyonight&bg_color=0d0d0d&border_color=ff4d4d&title_color=ff4d4d&icon_color=ff6b35&text_color=e8e8e8&hide_border=false" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ulugbek220907&layout=compact&theme=tokyonight&bg_color=0d0d0d&border_color=ff4d4d&title_color=ff4d4d&text_color=e8e8e8&hide_border=false" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Ulugbek220907&show_icons=true&theme=tokyonight&bg_color=0d0d0d&border_color=ff4d4d&title_color=ff4d4d&icon_color=ff6b35&text_color=e8e8e8&hide_border=false" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ulugbek220907&layout=compact&theme=tokyonight&bg_color=0d0d0d&border_color=ff4d4d&title_color=ff4d4d&text_color=e8e8e8&hide_border=false" width="49%" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ulugbek220907&theme=tokyonight&background=0d0d0d&border=ff4d4d&ring=ff4d4d&fire=ff6b35&currStreakLabel=ff6b35&sideLabels=e8e8e8&dates=777777" width="97%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Ulugbek220907&theme=tokyonight&background=0d0d0d&border=ff4d4d&ring=ff4d4d&fire=ff6b35&currStreakLabel=ff6b35&sideLabels=e8e8e8&dates=777777" width="99%" alt="GitHub Streak" />
 </div>
 
----
-
-### 🐍 Contribution Activity Matrix
+<br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ulugbek220907/Ulugbek220907/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ulugbek220907&theme=react-dark&color=ff4d4d&line=ff4d4d&point=ff6b35&area=true&hide_border=false&border_color=ff4d4d&bg_color=0d0d0d" width="99%" alt="Activity Graph" />
 </div>
 
 ---
@@ -129,7 +127,7 @@ open_for: ["Collaborations", "Internships", "Open Source"]
 <div align="center">
 
   <a href="https://github.com/Ulugbek220907">
-    <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white&borderColor=ff4d4d" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:isoqovulugbek@email.com">
     <img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ff4d4d" alt="Email" />
